@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\bin\Debug\net6.0\ExtencionsReview.exe
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\bin\Debug\net6.0\ExtencionsReview.deps.json
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\bin\Debug\net6.0\ExtencionsReview.runtimeconfig.json
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\bin\Debug\net6.0\ExtencionsReview.dll
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\bin\Debug\net6.0\ExtencionsReview.pdb
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.dll
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\refint\ExtencionsReview.dll
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.pdb
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ExtencionsReview.genruntimeconfig.cache
+C:\Users\marda\Desktop\c#\Extencions task\ExtencionsReview\ExtencionsReview\obj\Debug\net6.0\ref\ExtencionsReview.dll
